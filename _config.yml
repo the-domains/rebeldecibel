@@ -1,7 +1,7 @@
 name: rebeldecibel
 favicon: null
-layout_spectrum: 0.6771554395090789
-typography_spectrum: 0.36918754247017205
+layout_spectrum: 0.16233
+typography_spectrum: 0.17033
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#f7f9f6'
+    - '#6e679a'
+    - '#0e1d32'
+    - '#a99e8a'
+    - '#c253bf'
   brandStrength: 0.6171218561939895
-  lightness: 0.6166107752360404
-  saturation: 0.6059938680846244
+  lightness: 0.25
+  saturation: 0.25
   rhythmicContrast: 0.12514361599460244
 purpose: []
